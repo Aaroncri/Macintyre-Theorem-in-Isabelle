@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Crighton
+    given-names: Aaron
+title: "Macintyre's Theorem in Isabelle/HOL"
+date-released: 2022-08-11
